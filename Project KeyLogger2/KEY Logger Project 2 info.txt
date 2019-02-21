@@ -1,0 +1,14 @@
+video source:    How to make a simple python Keylogger , channel: Tinkernut
+
+
+log.txt in C:importants
+
+
+run_pyscript for launching both python and program
+
+
+project situation == failed
+
+
+
+ 
